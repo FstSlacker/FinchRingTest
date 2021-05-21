@@ -1,0 +1,48 @@
+id;En
+ConnectNodes;Please hold <color=#1560FFFF>Touchpad</color> \n to connect a device;
+ConnectUpperArms;Please hold <color=#1560FFFF>Touchpad</color> \n to connect a device;
+ConnectShift;Please hold <color=#1560FFFF>Home Button</color> \n to connect a device;
+BindControllerChirality;<size=169><b>Pick the controllers up</b></size>\n\nPlease pick the controllers up and hold them tight.
+BindUpperArmChirality;Please press <color=#1560FFFF>Touchpad</color> on the <color=#1560FFFF>Right</color> FinchTracker
+BindUpperArmOrientation;<b>Please put your hands down</b>
+OneThreeDof;3 DoF (One hand);
+TwoThreeDof;3 DoF (Two hand);
+OneSixDof;6 DoF (One hand);
+TwoSixDof;6 DoF (Two hand);
+NextButton;Next
+ChangeSetButton;Change set
+CalibrateOneControllerWithoutUpperArms;Aim forward and long press \n<color=#1560FFFF>Touchpad</color> to calibrate;
+CalibrateBothControllersWithoutUpperArms;Aim forward and long press \n<color=#1560FFFF>Touchpads</color> to calibrate;
+CalibrateOneControllerWithUpperArms;Aim forward and long press \n<color=#1560FFFF>Touchpad</color> to calibrate;
+CalibrateBothControllersWithUpperArms;Aim forward and long press \n<color=#1560FFFF>Touchpads</color> to calibrate;
+DifferentSign;Straighten your hands
+HorizontalUp;Raise your hands
+HorizontalDown;Lower your hands
+Success;Success;
+WaitingForConnection;<b>Waiting for connection</b>;
+Choose;Choose;
+TouchpadHint;Use swipe to select;
+AvailableModes;Available modes;
+Ready;Ready to connect;
+Launch;Launch;
+ChooseMode;Choose mode;
+ReadyConnect;Press <color=#1560FFFF>Touchpad</color> to select \nor swipe down to switch to 6 Dof;
+ControllerRecalibration;Aim your <color=#1560FFFF>FinchRing</color> down \nand long press <color=#1560FFFF>Touchpad</color> to calibrate;
+UpperArmRecalibration;Please Long Press <color=#1560FFFF>Touchpad</color> \non the FinchTracker to calibrate;
+Calibration;Calibration;
+SwapToLeft;Use left swipe to switch to the left hand;
+SwapToRight;Use right swipe to switch to the right hand;
+Recalibrate;Recalibration: you can repeat this action anytime during the game;
+BindRingChirality;<size=169><b>Identify the Right Ring</b></size>\n\nPlease press <color=#1560FFFF>Touchpad</color> on the <color=#1560FFFF>Right</color> FinchRing;
+PutOnRing;Fasten FinchRing to the <color=#1560FFFF>Middle Phalanx</color>\nand press the <color=#1560FFFF>Touchpad</color>;
+PutOnRingRight;Fasten the right FinchRing to the <color=#1560FFFF>Middle Phalanx</color>\nand press the <color=#1560FFFF>Touchpad</color>;
+PutOnRingLeft;Fasten the left FinchRing to the <color=#1560FFFF>Middle Phalanx</color>\nand press the <color=#1560FFFF>Touchpad</color>;
+FingerNotDefined; Finger not defined;
+CvError; Make sure that hands are visible;
+HeadError; Stay inside green area;
+Warning;Warning;
+Open;Open FinchCradle and pick up \nboth devices;
+Put;Put all devices in the cradle and close it;
+TimestampError;Devices were not pulled out at the same time;
+PutOnRingHeader;Put on FinchRing;
+BindUpperArmChiralityHeader;Identify the Right hand;
